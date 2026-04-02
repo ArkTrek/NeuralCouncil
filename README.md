@@ -83,6 +83,12 @@ Click the **Ideas** button to view a list of unique keywords and strategies extr
 
 ---
 
+## Snapshot
+<img width="1915" height="857" alt="image" src="https://github.com/user-attachments/assets/e67ed981-1559-48b9-a3b2-8e71e5da92ef" />
+
+
+---
+
 ## 📜 License & Socials
 **© 2026 Made by Arpit Ramesan.**
 
