@@ -21,7 +21,7 @@ Ensure you have the following installed on your local machine:
 ### 2. Clone the Repository
 Open your terminal and run:
 ```bash
-git clone https://github.com/ArkTrek/neural-council.git
+git clone https://github.com/ArkTrek/NeuralCouncil.git
 cd neural-council
 ```
 
