@@ -27,7 +27,7 @@ Ensure you have the following installed on your local machine:
 Open your terminal and run:
 ```bash
 git clone https://github.com/ArkTrek/NeuralCouncil.git
-cd neural-council
+cd neuralcouncil
 ```
 
 ### 3. Setup Ollama and Download the Model
