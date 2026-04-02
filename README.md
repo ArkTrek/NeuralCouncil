@@ -10,6 +10,11 @@ This application features a high-fidelity **Glassmorphism** interface and a **De
 
 ---
 
+## Snapshot
+<img width="1915" height="857" alt="image" src="https://github.com/user-attachments/assets/e67ed981-1559-48b9-a3b2-8e71e5da92ef" />
+
+---
+
 ## 🛠️ Step-by-Step Installation
 
 ### 1. Prerequisites
@@ -80,12 +85,6 @@ Click the **Ideas** button to view a list of unique keywords and strategies extr
 * `app.py`: The core backend managing the SocketIO loop, individual agent memory, and Ollama API calls.
 * `templates/index.html`: The Glassmorphic frontend with "Astral Night Sky Blue" styling and responsive UI.
 * `static/`: (Optional) Folder for local CSS or JS assets.
-
----
-
-## Snapshot
-<img width="1915" height="857" alt="image" src="https://github.com/user-attachments/assets/e67ed981-1559-48b9-a3b2-8e71e5da92ef" />
-
 
 ---
 
